@@ -1,7 +1,9 @@
 The file README.md is a guide for the MachineLearningStocks project, a Python-based starter project for stock prediction using machine learning.
 
 Project Overview
+
 Uses pandas and scikit-learn to predict stock movements based on historical fundamentals.
+
 The workflow involves:
 Collecting historical stock fundamentals and price data.
 Preprocessing the data.
