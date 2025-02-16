@@ -26,7 +26,7 @@ Implements a backtesting strategy to evaluate predictions.
 
 Can be extended with feature engineering, different ML models, or alternative data sources.
 
-Quickstart
+Quickstart:
 
 Clone the repository.
 
